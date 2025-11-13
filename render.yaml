@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: book-review-app
+    env: node
+    buildCommand: npm install
+    startCommand: node app.js
+    branch: main
+    envVars:
+      - key: PORT
+        value: 4000
