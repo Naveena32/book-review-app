@@ -1,0 +1,16 @@
+{
+  "1": {
+    "isbn": "9780143126560",
+    "title": "The Martian",
+    "authors": ["Andy Weir"],
+    "publisher": "Crown",
+    "reviews": {}
+  },
+  "2": { 
+    "isbn": "9780553386790",
+    "title": "Dune",
+    "authors": ["Frank Herbert"],
+    "publisher": "Ace",
+    "reviews": {}
+  }
+}
